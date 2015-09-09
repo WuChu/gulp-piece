@@ -1,4 +1,4 @@
-# Combine your gulp transform stream into a single one. [![Build Status](https://travis-ci.org/wuchu/gulp-piece.svg?branch=master)](https://travis-ci.org/wuchu/gulp-piece)
+# Combine your gulp transform stream into a single one. [![Build Status](https://travis-ci.org/WuChu/gulp-piece.svg?branch=master)](https://travis-ci.org/WuChu/gulp-piece)
 
 > Combine transform actions (stream), just in buffer mode.
 
