@@ -1,6 +1,6 @@
 {
   "name": "gulp-piece",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make pipes into one 'pipe'.",
   "main": "index.js",
   "scripts": {
